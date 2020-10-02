@@ -1,8 +1,6 @@
 ## Olá 👋🏽, Eu sou Lucas - Mobile Developer
 
-<br />
-
-### Eu sou programador, atleta, estudante e me aventuro em jogos!
+### Programador, que pratica esportes e um estudante que aprende algo novo todos os dias!
 
 - Atualmente trabalho em um empresa que presta serviço para um grande banco
 - Atualmente tenho focado em desenvolvimento mobile nativo (Swift, Kotlin)
@@ -10,13 +8,13 @@
 - Uma curiosidade: sou praticante de jiu jitsu e gosto de práticar exercicios fisicos!
 - Um sonho: Ser um professor, ensinar sobre programação e compartilhar experiencias de carreira.
 
-<br />
-
-### Me Ache
+### Contato
 
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -47,3 +45,4 @@
 
 [twitter]: https://twitter.com/devmeist3r
 [linkedin]: https://www.linkedin.com/in/luksinocencio/
+[gmail]: devmeist3r@gmail.com
