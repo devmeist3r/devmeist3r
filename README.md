@@ -1,11 +1,12 @@
 ## Olá 👋🏽, Eu sou Lucas - Mobile Developer
 
-### Programador, que pratica esportes e um estudante que aprende algo novo todos os dias!
+### Quem sou eu? Seu amigo de sempre o Homem Aranha, pera... rsrsrs
 
-- Atualmente trabalho em um empresa que presta serviço para um grande banco
-- Atualmente tenho focado em desenvolvimento mobile nativo (Swift, Kotlin)
+- Satisfação sou o Lucas Inocencio
+- Atualmente trabalho em um empresa que presta serviço para um banco
+- Atualmente tenho focado meus estudos em desenvolvimento mobile nativo (Swift, Kotlin)
 - Tenho sede por conhecimento e gosto de estudar
-- Uma curiosidade: sou praticante de jiu jitsu e gosto de práticar exercicios fisicos!
+- Uma curiosidade: sou praticante de jiu jitsu e musculação!
 - Um sonho: Ser um professor, ensinar sobre programação e compartilhar experiencias de carreira.
 
 ### Contato
