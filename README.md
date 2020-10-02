@@ -8,16 +8,16 @@
 - Atualmente tenho focado em desenvolvimento mobile nativo (Swift, Kotlin)
 - Tenho sede por conhecimento e gosto de estudar
 - Uma curiosidade: sou praticante de jiu jitsu e gosto de práticar exercicios fisicos!
-
-<br />
+- Um sonho: Ser um professor, ensinar sobre programação e compartilhar experiencias de carreira.
+  <br />
 
 ### Me Ache
 
-<img align="left" alt="Twitter Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-[https://twitter.com/devmeist3r]
+[<img align="left" alt="Twitter Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[twitter]
 
-<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-[https://www.linkedin.com/in/luksinocencio/]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[linkedin]
 
 <br />
 
@@ -32,3 +32,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br />
+<br />
+
+[twitter]: https://twitter.com/devmeist3r
+[linkedin]: https://www.linkedin.com/in/luksinocencio/
